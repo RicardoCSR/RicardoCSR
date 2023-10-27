@@ -2,7 +2,7 @@
 ### Hi there 👋 I'm Ricardo Cesar 
 
 - 🔥  I’m currently working on Minerva's Clock
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript.
+- 🌱 I’m currently learning Python and AVR.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RicardoCSR.RicardoCSR)
 
