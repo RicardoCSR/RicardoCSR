@@ -1,19 +1,18 @@
 🖋 Always learning always trying 
 ### Hi there 👋 I'm Ricardo Cesar 
 
-- 🔥  I’m currently working on Minerva's Clock
+- 🔥  I’m currently working on Minerva's Clock and also Rasa 3.0 with SpaCy
 - 🌱 I’m currently learning Python and AVR.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RicardoCSR.RicardoCSR)
 
 [![Github](https://img.shields.io/github/followers/RicardoCSR?label=Follow&style=social)](https://github.com/RicardoCSR)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=RicardoCSR&theme=yeblu)
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoCSR)](https://github.com/anuraghazra/github-readme-stats)
 
 NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoCSR&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoCSR&layout=compact)
 ## ✉️ Find me on:
 
 
