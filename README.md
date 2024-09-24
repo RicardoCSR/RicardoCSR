@@ -8,11 +8,10 @@
 
 [![Github](https://img.shields.io/github/followers/RicardoCSR?label=Follow&style=social)](https://github.com/RicardoCSR)
 
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoCSR)](https://github.com/anuraghazra/github-readme-stats)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoCSR\&rank_icon=github\&show_icons=true\&icon_color=f9f9f9\&bg_color=20,00d4ff,e96443\&title_color=fff\&text_color=fff)
 
-NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+![Ricardo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RicardoCesar)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoCSR&layout=compact)
 ## ✉️ Find me on:
 
 
