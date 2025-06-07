@@ -1,8 +1,8 @@
 🖋 Always learning always trying 
 ### Hi there 👋 I'm Ricardo Cesar 
 
-- 🔥  I’m currently working on Minerva's Clock and also Rasa 2.2 with Botfront (business project)
-- 🌱 I’m currently learning Python and AVR.
+- 🔥  I’m currently working on React Native and also Python projects (business project)
+- 🌱 I’m currently learning React and AVR.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RicardoCSR.RicardoCSR)
 
